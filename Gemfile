@@ -37,7 +37,7 @@ gem 'annotate'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
-# Datetime validations
+# Datetime validation
 gem 'validates_timeliness'
 
 # Use Capistrano for deployment
