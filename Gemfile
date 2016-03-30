@@ -76,7 +76,7 @@ gem 'whenever'
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
 
-# Create filters easily with scopes
+# Create filters easily with scopes gem
 gem 'has_scope'
 
 gem 'rubocop', '~> 0.29.1'
