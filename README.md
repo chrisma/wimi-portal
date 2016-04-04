@@ -22,6 +22,8 @@ Branch      | Heroku App | Status
 master  |  [click here](http://wimi-portal.herokuapp.com/)  | [![Heroku](https://heroku-badge.herokuapp.com/?app=wimi-portal)](http://wimi-portal.herokuapp.com/)
 dev  |  [click here](http://wimi-portal-dev.herokuapp.com/)  | [![Heroku](https://heroku-badge.herokuapp.com/?app=wimi-portal-dev)](http://wimi-portal-dev.herokuapp.com/)
 
+## Added another heading
+
 ## Setup
 
 Install gem bundle with

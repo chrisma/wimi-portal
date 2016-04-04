@@ -1,3 +1,4 @@
+#Added a line at the top
 source 'https://rubygems.org'
 
 ruby '2.2.2'
@@ -34,10 +35,10 @@ gem 'annotate'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# Use Unicorn as the app server
+# Use Unicorn as the app server (modified this line)
 # gem 'unicorn'
 
-# Datetime validations
+# Datetime validations (also modified this line)
 gem 'validates_timeliness'
 
 # Use Capistrano for deployment
