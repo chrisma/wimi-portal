@@ -114,3 +114,12 @@ group :test do
   # Stubbing external calls by blocking traffic with WebMock.disable_net_connect! or allow:
   #gem 'webmock'
 end
+
+
+
+
+
+
+
+
+# Appended a bunch of lines
