@@ -1,3 +1,4 @@
+# A new line at the start of the file
 source 'https://rubygems.org'
 
 ruby '2.2.2'
